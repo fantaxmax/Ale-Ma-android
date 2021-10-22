@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Alerta Mascota</string>
+    <string name="title_home">Principal</string>
+    <string name="title_dashboard">Noticias</string>
+    <string name="title_notifications">Notificaciones</string>
+    <string name="title_profile">Perfil</string>
+    <string name="title_share">Compartir</string>
+</resources>
