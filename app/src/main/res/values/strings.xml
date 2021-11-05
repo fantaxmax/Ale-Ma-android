@@ -5,4 +5,16 @@
     <string name="title_notifications">Notifications</string>
     <string name="title_profile">Profile</string>
     <string name="title_share">Share</string>
+    <string name="share_name">Name</string>
+    <string name="share_petId">Pet Name</string>
+    <string name="share_idScan">Scan QR</string>
+    <string name="share_post">Post</string>
+    <string name="profile_petSelect">Registered Pet</string>
+    <string name="profile_petName">Pet Name</string>
+    <string name="profile_petDesc">Pet Description</string>
+    <string name="profile_petAge">Pet Age</string>
+    <string name="profile_petClass">Pet Specie</string>
+    <string name="profile_qrScanned">Linked TAG</string>
+    <string name="profile_linkTag">Scan TAG</string>
+    <string name="profile_register">Register Pet</string>
 </resources>

@@ -6,4 +6,16 @@
     <string name="title_notifications">Notificaciones</string>
     <string name="title_profile">Perfil</string>
     <string name="title_share">Compartir</string>
+    <string name="share_name">Nombre</string>
+    <string name="share_petId">Mascota</string>
+    <string name="share_idScan">Escanear QR</string>
+    <string name="share_post">Publicar</string>
+    <string name="profile_petSelect">Mascota</string>
+    <string name="profile_petName">Nombre</string>
+    <string name="profile_petDesc">Descripcion</string>
+    <string name="profile_petAge">Edad</string>
+    <string name="profile_petClass">Especie</string>
+    <string name="profile_qrScanned">QR Viculado</string>
+    <string name="profile_linkTag">Vincular QR</string>
+    <string name="profile_register">Registrar Mascota</string>
 </resources>

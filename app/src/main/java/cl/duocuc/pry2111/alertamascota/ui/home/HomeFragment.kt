@@ -30,9 +30,7 @@ class HomeFragment : Fragment() {
         _binding = FragmentHomeBinding.inflate(inflater, container, false)
         val root: View = binding.root
 
-        val mapview: WebView = binding.mapWebview
-        mapview.settings.javaScriptEnabled = true
-        mapview.loadUrl("https://www.google.com/maps")
+
         return root
     }
 
