@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Ismael/StudioProjects/Ale-Ma-android/app/src/main/res/layout/fragment_notifications.xml" value="0.21345628415300547" />
+        <entry key="..\:/Users/Ismael/StudioProjects/Ale-Ma-android/app/src/main/res/layout/fragment_profile.xml" value="0.28940217391304346" />
+        <entry key="..\:/Users/Ismael/StudioProjects/Ale-Ma-android/app/src/main/res/layout/fragment_share.xml" value="0.28940217391304346" />
         <entry key="..\:/Users/iconc/AndroidStudioProjects/AlertaMascota/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.3828125" />
         <entry key="..\:/Users/iconc/AndroidStudioProjects/AlertaMascota/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.3828125" />
         <entry key="..\:/Users/iconc/AndroidStudioProjects/AlertaMascota/app/src/main/res/drawable/ic_launcher_background.xml" value="0.3828125" />
