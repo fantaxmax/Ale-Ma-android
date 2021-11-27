@@ -32,9 +32,7 @@ class DashboardFragment : Fragment() {
         val root: View = binding.root
 
         val textView: TextView = binding.textDashboard
-        dashboardViewModel.text.observe(viewLifecycleOwner, Observer {
-            textView.text = it
-        })
+        textView.text = dashboardViewModel.prueba()
         return root
     }
 
